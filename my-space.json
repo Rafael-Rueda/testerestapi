@@ -1,0 +1,61 @@
+{
+"Cards" : [
+    {
+        "id":1,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798631457787974/Rectangle_6_9.png",
+        "tipo": "estrela",
+        "popular": true
+    },
+
+    {
+        "id":2,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798631722041455/Rectangle_6.png",
+        "tipo": "galaxia",
+        "popular": true
+    },
+
+    {
+        "id":3,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798632015630527/Rectangle_6_1.png",
+        "tipo": "nebulosa",
+        "popular": true
+    },
+
+    {
+        "id":4,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798632288272414/Rectangle_6_2.png",
+        "tipo": "estrela",
+        "popular": true
+    },
+    {
+        "id":5,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798632539914390/Rectangle_6_3.png",
+        "tipo": "galaxia"
+    },
+    {
+        "id":6,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798632820936734/Rectangle_6_4.png",
+        "tipo": "lua"
+    },
+    {
+        "id":7,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798633072607372/Rectangle_6_5.png",
+        "tipo": "nebulosa"
+    },
+    {
+        "id":8,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798633299083274/Rectangle_6_6.png",
+        "tipo": "galaxia"
+    },
+    {
+        "id":9,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798633550745670/Rectangle_6_7.png",
+        "tipo": "estrela"
+    },
+    {
+        "id":10,
+        "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798633932439603/Rectangle_6_8.png",
+        "tipo": "estrela"
+    }
+]
+}
